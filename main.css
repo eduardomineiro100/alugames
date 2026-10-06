@@ -136,30 +136,3 @@
     margin-right: 33px;
     align-self: flex-end;
 }
-
-@media screen and (max-width: 1100px) {
-    .divisor {
-        gap: 1rem;
-        margin: 2rem 0;
-    }
-
-    .divisor__line {
-        width: auto;
-        flex: 1;
-    }
-
-    .page-title {
-        font-size: 3rem;
-        text-align: center;
-    }
-
-    .dashboard {
-        padding: 1.5rem;
-    }
-
-    .dashboard__items {
-        flex-wrap: wrap;
-        justify-content: center;
-        gap: 2rem;
-    }
-}
